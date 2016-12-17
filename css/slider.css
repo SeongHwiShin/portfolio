@@ -58,9 +58,9 @@
 	text-transform: uppercase;
 	color: #FFFFFF;
 	width: 77%;
-	top: 127px;
-	font-size: 5em;
-	font-weight: 600;
+	top: 30px;
+	font-size: 3.5em;
+	font-weight: 500;
 	white-space: nowrap;
 	z-index: 10;
 	text-align: center;
@@ -69,10 +69,10 @@
 	color: #87B672;
 }
 .da-slide p{
-	top: 72px;
+	top: 147px;
 	font-family: 'Droid Serif', serif;
 	color: #FFFFFF;
-	font-size: 2.7em;
+	font-size: 2em;
 	height: 80px;
 	overflow: hidden;
 	font-weight:100;
